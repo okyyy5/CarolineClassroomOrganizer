@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"CarolineClassroomICTPRG418","l":"ClassroomMain"},{"p":"CarolineClassroomICTPRG418","l":"FindPage"},{"p":"CarolineClassroomICTPRG418","l":"Main"},{"p":"CarolineClassroomICTPRG418","l":"PositionPage"},{"p":"CarolineClassroomICTPRG418","l":"StudentInfo"},{"p":"CarolineClassroomICTPRG418","l":"UIComponents"}]
