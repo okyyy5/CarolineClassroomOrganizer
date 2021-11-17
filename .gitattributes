@@ -1,0 +1,5 @@
+# Ignoring some languages
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
+*.css linguist-detectable=false
